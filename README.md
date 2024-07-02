@@ -2,6 +2,8 @@
 
 A conversation partner for language learning. Sends ChatGPT-generated text to ElevenLabs for audio.
 
+https://github.com/sam-mehdi/kristall/assets/69536392/ef2f2c58-3556-46b1-a1e0-d17e739e338e
+
 Hit "Enter" to indicate that you're done talking.
 
 Mostly made obsolete by ChatGPT's [new Voice Mode](https://help.openai.com/en/articles/8400625-voice-chat-faq).
@@ -49,5 +51,5 @@ Make sure to set your language (`STT_LANGUAGE` in `.env`). Also make sure your d
 ### Kristall?
 "Crystal" in German. Imagine all the facets of a crystal as different languages that the program can handle.
 
-### What is this code??
-Look, I was just dabbling in Rust, I'm sorry!
+### What is this code?? And why did you choose Rust?
+Look, I just wanted to try Rust, I'm sorry!
