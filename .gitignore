@@ -1,0 +1,4 @@
+/target
+
+# ignored to avoid committing secrets to source control
+.env
