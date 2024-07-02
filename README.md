@@ -2,7 +2,7 @@
 
 A conversation partner for language learning. Sends ChatGPT-generated text to ElevenLabs for audio.
 
-https://github.com/sam-mehdi/kristall/assets/69536392/ef2f2c58-3556-46b1-a1e0-d17e739e338e
+https://github.com/sam-mehdi/kristall/assets/69536392/014fd9cc-5e22-4625-b58b-a015a1212032
 
 Hit "Enter" to indicate that you're done talking.
 
